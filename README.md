@@ -7,6 +7,7 @@ Analyze Netflix dataset to find trends in content.
 - Python
 - Pandas
 - Matplotlib
+- Power BI
 
 ## Key Insights
 - Movies are more than TV Shows
