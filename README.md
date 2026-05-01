@@ -8,7 +8,7 @@ This project analyzes Netflix content using Python and Power BI. It focuses on u
 - Power BI
 
 ## 📊 Dashboard Preview
-<img src="powerBI/dashboard.png" width="700"/>
+<img src="powerBI/dashboard.png" width="900"/>
 
 ## 🔍 Key Insights
 - Content increased rapidly after 2015
