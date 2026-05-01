@@ -1,19 +1,26 @@
-# Netflix Data Analysis
+# Netflix Data Analysis Dashboard 📊
 
-## Objective
-Analyze Netflix dataset to find trends in content.
+## 📌 Overview
+This project analyzes Netflix content using Python and Power BI. It focuses on understanding content trends, distribution, and patterns.
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+## 🛠️ Tools Used
+- Python (Pandas, NumPy)
 - Power BI
 
-## Key Insights
-- Movies are more than TV Shows
-- Content increased rapidly after 2015
-- Top countries: USA, India, UK
-- Most common genre: International Movies
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
 
-## Project Type
-Exploratory Data Analysis (EDA)
+## 🔍 Key Insights
+- Content increased rapidly after 2015
+- Movies dominate over TV Shows
+- United States produces the most content
+- Top genres include International Movies and Drama
+
+## 📁 Files
+- netflix-dashboard.pbix
+- cleaned_netflix.csv
+
+## 🚀 Project Highlights
+- Data Cleaning using Python
+- Exploratory Data Analysis (EDA)
+- Interactive Dashboard using Power BI
